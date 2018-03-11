@@ -6,15 +6,15 @@ h1{
 	font-size: 140px;
 	line-height: 1.35;
 	color:white;
-	text-align: center;
 	text-overflow: ellipsis;
+	font-family: GalanoClassicAlt-SemiBold,arial,serif;
 }
 
 h2 {	
 	font-size: 20px;
 	line-height: 1.35;
 	color:white;
-	text-align: center;
 	text-overflow: ellipsis;
+	font-family: GalanoClassicAlt-SemiBold,arial,serif;
 }
 
