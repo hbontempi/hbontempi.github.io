@@ -4,17 +4,13 @@ body {
 
 h1{
 	font-size: 140px;
-	font-family: Arial,sans-serif;
 	line-height: 1.35;
 	color:white;
-
 }
 
-h2{	
-	font-size: 40px;
+h2 {	
+	font-size: 20px;
 	line-height: 1.35;
 	color:white;
-	font-family: Arial,sans-serif;
-
 }
 
