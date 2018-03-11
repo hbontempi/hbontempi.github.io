@@ -2,10 +2,11 @@ body {
 	background-color: #3e3c3d;
 }
 
-h1{	
+h1,h2{	
 	color:white;
 	font-size: 140px;
 	line-height: 2px;
-	font-family: PFDin,Impact,sans-serif;
+	font-family: Montserrat,Arial,sans-serif;
+
 }
 
