@@ -1,25 +1,31 @@
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Quicksand:300,400,600,700&amp;lang=en" />
-
 body {
-	background-color: #3e3c3d;
+	font-family: Muli,sans-serif;
+	background-color: white;
+	color:#3e3c3d;
+	line-height: 1.35;
+}
 
 h1{
 	font-size: 140px;
-	color:white;
+
 }
+	
 h2 {	
-	font-size: 54px;
-	line-height: 1.35;
-	color:white;
+	font-size: 59px;
+	
 }
 
 h3 {	
-	font-size: 36px;
-	line-height: 1.35;
-	color:white;
+	font-size: 50px;
+
+}
+
+h4 {	
+	font-size: 50px;
+
+}	
 
 p, ul, li {	
 	font-size: 20px;
-	line-height: 1.35;
-	color:white;
 
+}
