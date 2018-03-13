@@ -2,6 +2,7 @@
 
 body {
 	background-color: #3e3c3d;
+	color: white;
 }
 
 h1{
@@ -19,7 +20,7 @@ h3 {
 	line-height: 1.35;
 	color:white;
 }
-li{
+{
 
 	font-size: 20px;
 	line-height: 1.35;
