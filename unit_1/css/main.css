@@ -2,8 +2,6 @@
 
 body {
 	background-color: #3e3c3d;
-	color: white;
-}
 
 h1{
 	font-size: 140px;
@@ -19,11 +17,9 @@ h3 {
 	font-size: 36px;
 	line-height: 1.35;
 	color:white;
-}
-{
 
+p {	
 	font-size: 20px;
 	line-height: 1.35;
 	color:white;
-}
 
