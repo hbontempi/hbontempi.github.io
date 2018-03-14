@@ -3,39 +3,39 @@ body {
 	background-color: white;
 	font-color:#3e3c3d;
 	line-height: 1.35;
-	font-family: 'Muli', sans-serif;
+font-family: 'Questrial', sans-serif;
 }
 
 h1{
 	font-size: 140px;
-	font-family: 'Muli', sans-serif;
+font-family: 'Questrial', sans-serif;
 	font-weight: 900;
 
 }
 	
 h2 {	
 	font-size: 59px;
-	font-family: 'Muli', sans-serif;
+	font-family: 'Questrial', sans-serif;
 	font-weight: 800;
 	
 }
 
 h3 {	
 	font-size: 50px;
-	font-family: 'Muli', sans-serif;
+font-family: 'Questrial', sans-serif;
 	font-weight: 600;
 
 }
 
 h4 {	
 	font-size: 40px;
-	font-family: 'Muli', sans-serif;
+	font-family: 'Questrial', sans-serif;
 	font-weight: 500;
 
 }	
 
 p, ul, li {	
 	font-size: 20px;
-	font-family: 'Muli', sans-serif;
+	font-family: 'Questrial', sans-serif;
 	font-weight: 400;
 }
