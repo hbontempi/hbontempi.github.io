@@ -47,9 +47,8 @@ div {
 	display: inline-block;
 	margin: 20px;
 }
-#yellow_square {background: yellow
-}
+#yellow {background: yellow}
 
-#red_square{background: red}
+#red{background: red}
 
-#blue_square {background: blue}
+#blue {background: blue}
