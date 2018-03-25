@@ -51,4 +51,5 @@ div {
 
 #red{background: red}
 
-#blue {background: blue}
+#blue {background: blue;
+align-content: right}
