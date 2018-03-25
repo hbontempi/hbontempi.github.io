@@ -41,8 +41,8 @@ p, ul, li {
 	font-weight: 400;
 }
 div {
-	width: 150px;
-	height: 150px;
+	width: 350px;
+	height: 350px;
 	border: 1px black;
 	display: inline-block;
 	margin: 20px;
@@ -53,3 +53,5 @@ div {
 
 #blue {background: blue;
 align-content: right}
+
+#heading {background: pink}
