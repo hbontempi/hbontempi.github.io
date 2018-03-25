@@ -40,3 +40,16 @@ p, ul, li {
 	font-family: 'Questrial', sans-serif;
 	font-weight: 400;
 }
+div {
+	width: 150px;
+	height: 150px;
+	border: 1px black;
+	display: inline-block;
+	margin: 20px;
+}
+#yellow_square {background: yellow
+}
+
+#red_square{background: red}
+
+#blue_square {background: blue}
