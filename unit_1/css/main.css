@@ -54,4 +54,5 @@ div {
 #blue {background: blue;
 align-content: right}
 
-#heading {background: pink}
+#heading {background: pink
+width: 600px;}
