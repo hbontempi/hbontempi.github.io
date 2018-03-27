@@ -23,8 +23,8 @@ div {
 	display: inline-block;
 	margin: 20px;
 }
-#wind1 {background: url(images\wind-river-range.jpg)}
+#wind1 {background-image: url(images\wind-river-range.jpg)}
 
-#wind2 {background: url(images\wind-river-range-campsite.jpg)}
+#wind2 {background-image: url(images\wind-river-range-campsite.jpg)}
 
-#wind3 {background: url(images\wind-river-range-sitting-by-a-rock.jpg)}
+#wind3 {background-image: url(images\wind-river-range-sitting-by-a-rock.jpg)}
