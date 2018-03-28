@@ -23,9 +23,6 @@ div {
 	display: inline-block;
 	margin: 20px;
 }
-#header {background: #3e3c3d;
-	opacity: .3;
-}
 
 #wind1 {background-image: url(images/wind-river-range.jpg)}
 
