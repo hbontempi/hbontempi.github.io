@@ -1,6 +1,7 @@
 body {
 
-	background: white;
+	background: url(images/wind-river-range);
+	background-size: fill;
 	line-height: 1.35;
 	font-family: 'Questrial', sans-serif;
 	text-align: center;
