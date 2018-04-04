@@ -27,3 +27,15 @@ div {
 	margin: 20px;
 }
 
+#first {
+	background: url(images/wind-river-range.jpg);
+}
+
+#second {
+	background: url(images/wind-river-range-campsite.jpg);
+}
+
+#third {
+	background: url(images/wind-river-range-sitting-by-a-rock.jpg);
+}
+
