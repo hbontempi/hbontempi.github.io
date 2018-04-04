@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Chicle');
+
 body {
 
 	background: url(images/wind-river-range.jpg);
 	background-size: cover;
 	line-height: 1.35;
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Chicle', sans-serif;
 	text-align: center;
 }
 
