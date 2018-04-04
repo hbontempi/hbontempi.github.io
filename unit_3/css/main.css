@@ -28,7 +28,7 @@ div {
 }
 
 #first {
-	background: url(images/wind-river-range.jpg);
+	fill: url(images/wind-river-range.jpg);
 }
 
 #second {
