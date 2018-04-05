@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900');
 
 body {
 
@@ -10,12 +10,12 @@ body {
 h1{
 	font-size: 140px;
 	font-weight: 900;
-	letter-spacing: 10px;
+
 }
 	
 h2 {	
 	font-size: 59px;
-	font-weight: 800;
+	font-weight: 400;
 }
 
 div {
@@ -23,6 +23,14 @@ div {
 	height: 350px;
 	display: inline-block;
 	margin: 20px;
+}
+
+#menu {
+	width: 90%;
+	height: 40px;
+	border-bottom: 1px
+	
+
 }
 
 #first {
