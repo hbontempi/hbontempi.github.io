@@ -19,10 +19,11 @@ h2 {
 }
 
 a {
-	font-size:30px;
-	font-weight: 400;
+	font-size:40px;
+	font-weight: 700;
 	text-transform: uppercase;
-	
+	margin: 30px;
+
 }
 div {
 	width: 350px;
@@ -36,6 +37,7 @@ div {
 	height: 60px;
 	background-color: #ffd93d;
 	margin: 40px;
+	vertical-align: center;
 
 
 }
