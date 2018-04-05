@@ -24,7 +24,7 @@ a {
 	font-weight: 400;
 	text-transform: uppercase;
 	margin: 50px;
-	vertical-align: center;
+	
 
 }
 div {
@@ -38,6 +38,7 @@ div {
 	width: 100%;
 	height: 60px;
 	background-color: #ffd93d;
+	vertical-align: center;
 	
 
 
