@@ -12,6 +12,7 @@ body {
 h1{
 	font-size: 140px;
 	font-weight: 900;
+	letter-spacing: 10px;
 }
 	
 h2 {	
@@ -28,7 +29,7 @@ div {
 }
 
 #first {
-	fill: url(/images/wind-river-range.jpg);
+	background: url(/images/wind-river-range.jpg);
 }
 
 #second {
