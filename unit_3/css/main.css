@@ -6,6 +6,7 @@ body {
 	font-family: 'Playfair Display', sans-serif;
 	text-align: center;
 	color:#3e3c3d;
+	margin: 5%;
 }
 
 h1{
@@ -35,7 +36,7 @@ div {
 }
 
 #menu {
-	width: 100%;
+	width: 90%;
 	height: 60px;
 	background-color: #ffd93d;
 	vertical-align: center;
