@@ -30,6 +30,8 @@ div {
 
 #first {
 	background: url(/images/wind-river-range.jpg);
+	width: 350px;
+	height: 350px;
 }
 
 #second {
