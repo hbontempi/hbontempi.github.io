@@ -1,11 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Chicle');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
 
 body {
 
-	background: url(images/wind-river-range.jpg);
-	background-size: cover;
 	line-height: 1.35;
-	font-family: 'Chicle', sans-serif;
+	font-family: 'Playfair', sans-serif;
 	text-align: center;
 }
 
@@ -27,6 +25,15 @@ div {
 	margin: 20px;
 }
 
+#first {
+	background: url(/images/wind-river-range.jpg);
+}
 
+#second {
+	background: url(/images/wind-river-range-campsite.jpg);
+}
+
+#third {
+	background: url(/images/wind-river-range-sitting-by-a-rock.jpg);
 }
 
