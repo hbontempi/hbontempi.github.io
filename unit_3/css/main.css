@@ -18,7 +18,12 @@ h2 {
 	font-weight: 400;
 }
 
-
+div {
+	width: 350px;
+	height: 350px;
+	display: inline-block;
+	margin: 20px;
+}
 
 #menu {
 	width: 100%;
@@ -28,15 +33,11 @@ h2 {
 
 }
 
-#first {
-	background: url(/images/wind-river-range.jpg);
-}
+.picture {
 
-#second {
-	background: url(/images/wind-river-range-campsite.jpg);
-}
+	width: 350px;
+	height: 350px;
+	display: inline-block;
+	margin: 20px;
 
-#third {
-	background: url(/images/wind-river-range-sitting-by-a-rock.jpg);
-}
 
