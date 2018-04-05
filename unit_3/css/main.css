@@ -69,27 +69,4 @@ div {
 	border-color: #3e3c3d
 }
 
-#first {
-	background: url(/images/wind-river-range.jpg);
-	width: 350px;
-	height: 350px;
-	display: inline-block;
-	margin: 20px;
-}
-
-#second {
-	background: url(/images/wind-river-range-campsite.jpg);
-	width: 350px;
-	height: 350px;
-	display: inline-block;
-	margin: 20px;
-}
-
-#third {
-	background: url(/images/wind-river-range-sitting-by-a-rock.jpg);
-	width: 350px;
-	height: 350px;
-	display: inline-block;
-	margin: 20px;
-}	
 
