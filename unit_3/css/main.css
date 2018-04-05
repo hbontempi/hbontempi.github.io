@@ -41,6 +41,12 @@ div {
 
 
 }
+.picture {
+	width:350px;
+	height:350px;
+	margin:20px;
+	border: 5px;
+}
 
 #first {
 	background: url(/images/wind-river-range.jpg);
