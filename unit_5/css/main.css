@@ -76,8 +76,12 @@ a {
 	height: 60px;
 	border: 1px black dotted;
 	vertical-align: middle;
-	align-self: center;
+	text-align: center;
 	margin-bottom: 50px;
 }
 
 
+#c2me-app > div > div > div > header > div > 
+#c2me-app > div > div > div > main > div > div.c2me-banner > div.c2me-banner__content > div.signup-form > form > button
+#c2me-app > div > div > div > footer
+#c2me-app > div > div > div > main > div > div.c2me-home__banner > div > div.c2me-banner__content > div > a:nth-child(1)
