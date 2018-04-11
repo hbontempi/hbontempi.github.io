@@ -68,13 +68,15 @@ a {
 	width:350px;
 	height:350px;
 	margin:20px;
+	padding: 20px;
 }
 
 #menu {
 	width: 90%;
 	height: 60px;
-	background-color: #ffd93d;
+	border: 1px black dotted;
 	vertical-align: middle;
+	align-content: center
 	margin-bottom: 50px;
 }
 
