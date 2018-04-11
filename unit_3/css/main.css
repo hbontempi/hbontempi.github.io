@@ -46,7 +46,12 @@ div {
 	margin: 20px;
 }
 
-.picture {
+.big-picture {
+	width:650px;
+	height:650px;
+	margin:20px;
+}
+.small-picture {
 	width:350px;
 	height:350px;
 	margin:20px;
