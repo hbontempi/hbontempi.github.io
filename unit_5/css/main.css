@@ -18,6 +18,7 @@ nav {
 background-color: #e8c66a;
 border: 1px black solid;
 padding: 20px;
+align-items: center;
 }
 
 aside {
@@ -79,9 +80,3 @@ a {
 	text-align: center;
 	margin-bottom: 50px;
 }
-
-
-#c2me-app > div > div > div > header > div > 
-#c2me-app > div > div > div > main > div > div.c2me-banner > div.c2me-banner__content > div.signup-form > form > button
-#c2me-app > div > div > div > footer
-#c2me-app > div > div > div > main > div > div.c2me-home__banner > div > div.c2me-banner__content > div > a:nth-child(1)
