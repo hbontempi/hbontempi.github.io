@@ -39,6 +39,9 @@ a {
 	vertical-align: middle;
 	line-height: 60px;
 }
+nav {
+	width: 90%;
+}
 
 div {
 	width: 350px;
@@ -54,13 +57,11 @@ footer {
 }
 
 .big-picture {
-	width:650px;
-	height:650px;
+	width:55%;;
 	margin:20px;
 }
 .small-picture {
-	width:350px;
-	height:350px;
+	width:30%;
 	margin:20px;
 }
 
