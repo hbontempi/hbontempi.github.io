@@ -16,14 +16,14 @@ padding: 20px;
 }
 
 nav {
-background-color: #e8c66a;
-border: 1px black solid;
+background-color: #ffd93d;
 padding: 20px;
 align-items: center;
 
 }
 
 nav a {
+	color:#3e3c3d;
 	text-decoration: none;	
 	font-size:30px;
 	font-weight: 700;
@@ -33,6 +33,7 @@ nav a {
 	line-height: 60px;
 	display: block;
 	padding: 10px;
+	float: left;
 }
 
 nav a:hover {
