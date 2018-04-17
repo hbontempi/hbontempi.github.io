@@ -63,6 +63,9 @@ a {
 	margin: 50px;
 	vertical-align: middle;
 	line-height: 60px;
+	display: block;
+	padding: 10px;
+	width: 200px;
 }
 
 .picture {
