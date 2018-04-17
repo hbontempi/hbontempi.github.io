@@ -12,6 +12,7 @@ header {
 background-color: #ffed74;
 border: 1px black solid;
 padding: 20px;
+
 }
 
 nav {
@@ -80,9 +81,3 @@ a:hover {
 	padding: 20px;
 }
 
-#menu {
-	height: 60px;
-	vertical-align: middle;
-	text-align: center;
-	margin-bottom: 50px;
-}
