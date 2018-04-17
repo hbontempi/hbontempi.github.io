@@ -26,6 +26,7 @@ aside {
 background-color: #ffc675;
 border: 1px black solid;
 padding: 20px;
+display: block;
 }
 
 article {
@@ -67,6 +68,7 @@ a {
 	display: block;
 	padding: 10px;
 	width: 200px;
+
 }
 
 a:hover {
@@ -79,5 +81,13 @@ a:hover {
 	height:350px;
 	margin:20px;
 	padding: 20px;
+
+.picture:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
 }
 
