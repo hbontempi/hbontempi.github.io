@@ -68,6 +68,11 @@ a {
 	width: 200px;
 }
 
+a:hover {
+	color: #fff;
+	background: #3e3c3d;
+}
+
 .picture {
 	width:350px;
 	height:350px;
