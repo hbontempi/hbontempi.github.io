@@ -19,19 +19,17 @@ nav {
 background-color: #ffd93d;
 padding: 20px;
 align-items: center;
+height: 45px;
 
 }
 
 nav a {
 	color:#3e3c3d;
 	text-decoration: none;	
+	display: block;
 	font-size:30px;
 	font-weight: 700;
 	text-transform: uppercase;
-	margin: 50px;
-	vertical-align: middle;
-	line-height: 60px;
-	display: block;
 	padding: 10px;
 	float: left;
 }
