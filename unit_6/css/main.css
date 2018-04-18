@@ -34,58 +34,6 @@ nav a:hover {
 }
 
 
-aside {
-background-color: #ffc675;
-border: 1px black solid;
-padding: 20px;
-display: block;
-}
-
-article {
-background-color: #e89c6c;
-border: 1px black solid;
-padding: 20px;
-}
-
-footer {
-background-color: #ff957e;
-border: 1px black solid;
-padding: 20px;
-}
-
-div, section {
-background-color: #FFE2B8
-border: 1px black solid;
-padding: 20px;
-}
-
-
-h1{
-	font-size: 100px;
-	font-weight: 900;
-}
-	
-h2 {	
-	font-size: 59px;
-	font-weight: 400;
-}
-
-a {
-	
-
-	width: 200px;
-
-}
-.menu {
-
-}
-
-.picture {
-	width:350px;
-	height:350px;
-	margin:20px;
-	padding: 20px;
-
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -95,10 +43,3 @@ a {
 	height: 0;
 }
 
-#first {
-	float: left;
-}
-
-#third {
-	float: right;
-}
