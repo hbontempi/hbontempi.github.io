@@ -82,7 +82,7 @@ a {
 	margin:20px;
 	padding: 20px;
 
-.picture:after {
+.clearfix:after {
 	visibility: hidden;
 	display: block;
 	font-size: 0;
