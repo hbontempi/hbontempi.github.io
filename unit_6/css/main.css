@@ -24,6 +24,8 @@ nav a {
 	font-size:30px;
 	font-weight: 700;
 	text-transform: uppercase;
+	float: left;
+	padding: 20px;
 }
 
 nav a:hover {
