@@ -30,8 +30,6 @@ nav a {
 	font-size:30px;
 	font-weight: 700;
 	text-transform: uppercase;
-	padding: 10px;
-	float: left;
 }
 
 nav a:hover {
