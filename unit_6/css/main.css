@@ -5,10 +5,9 @@ body {
 	font-family: 'Playfair Display', sans-serif;
 	text-align: center;
 	color:#3e3c3d;
-	margin: 5%;
 }
 
-.wrapper{
+.wrapper {
 	background-color:#aeaebb;
 }
 
@@ -69,7 +68,6 @@ aside {
     background-color: #FFB7CF;
     border: 1px black solid;
     padding: 20px;
-    display: block;
 }
 
 #left {
@@ -89,11 +87,11 @@ aside {
 }
 
 footer {
-	background-color: #ffd93d;
+	background-color: #FF957E;
 	border: 1px black solid;
 	height: 50px;
 	width:100%;
-	color:#FF957E;
+	color:#3e3c3d;
 	font-size:20px;
 	display:block;
 	text-align:right;
