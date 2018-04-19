@@ -84,12 +84,15 @@ aside {
 
 footer {
 	background-color: #ffd93d;
+	border: 1px black solid;
 	height: 50px;
 	width:100%;
 	color:#FF957E;
 	font-size:20px;
 	display:block;
 	text-align:right;
+	line-height: 50px;
+	margin-right: 5px;
 
 }
 
