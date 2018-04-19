@@ -14,7 +14,7 @@ header {
 	padding: 20px;
 }
 
-h1{
+header h1{
 	font-size: 100px;
 	font-weight: 900;
 	line-height: 150px;
@@ -46,9 +46,9 @@ nav a:hover {
 	color: #fff;
 }
 
-section {
+div, section {
 	width:80%;
-	background-color: #3e3c3d;
+	background-color: #FFE2B8;
 	border: 1px black solid;
 
 
@@ -87,7 +87,7 @@ footer {
 	background-color: #ffd93d;
 	height: 50px;
 	width:100%;
-	color:#3e3c3d;
+	color:#FF957E;
 	font-size:20px;
 	display:block;
 	text-align:right;
