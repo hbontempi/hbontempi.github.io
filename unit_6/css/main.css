@@ -8,13 +8,15 @@ body {
 }
 
 .wrapper {
-	background-color:#aeaebb;
+	padding: 5% 5% 0 5%;
 }
 
 header {
-	background-color: #ffed74;
-	border: 1px black solid;
-	padding: 20px;
+
+	padding: 20px 50px 50px 50px;
+	border-top: 24px #ffd93d solid;
+	border-bottom: 24px #ffd93d solid;
+
 }
 
 header h1{
@@ -25,8 +27,6 @@ header h1{
 
 
 nav {
-	width: 25%;
-	padding: 20px;
 	align-items: left;
 	text-decoration: none;
 	display: block;
@@ -47,16 +47,13 @@ nav a {
 }
 
 nav a:hover {
-	color: #fff;
+	color: #ffd93d;
+	background-color: #3e3c3d;
 }
 
-div, section {
-	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
-
-
-
+section {
+	display: block;
+}
 
 
 }
@@ -64,36 +61,40 @@ div, section {
 
 
 #two_column {
-    background-color: #FFB7CF;
+
     border: 1px black solid;
     padding: 20px;
 }
 
 #left {
-    background-color: violet;
-    border: 1px black solid;
+
+ 
     padding: 20px;
     float: left;
-    width: 30%;
+    width: 20%;
+    height: 360px;
+    margin:2.5% 0 2.5% 0;
 }
 
 #right {
-    background-color: pink;
-    border: 1px black solid;
+
+    border: 5px #3e3c3d solid;
     padding: 20px;
     float: right;   
-    width: 62%;
+    width: 67.5%;
+    height: 360px;
+    margin: 2.5% 0 2.5% 0;
 }
 
 footer {
-	background-color: #FF957E;
-	border: 1px black solid;
+	background-color: #ffd93d;
 	height: 50px;
 	color:#3e3c3d;
 	font-size:20px;
 	display:block;
 	text-align:right;
 	line-height: 50px;
+	padding-right: 5px;
 
 
 }
