@@ -25,11 +25,13 @@ header h1{
 
 
 nav {
-	background-color: #e8c66a;
-	border: 1px black solid;
+	width: 25%;
 	padding: 20px;
-	align-items: center;
+	align-items: left;
 	text-decoration: none;
+	display: block;
+
+
 }
 
 
@@ -59,12 +61,7 @@ div, section {
 
 }
 
-aside {
-	background-color: #ffc675;
-	border: 1px black solid;
-	padding: 20px;
-	display: block;
-}
+
 
 #two_column {
     background-color: #FFB7CF;
