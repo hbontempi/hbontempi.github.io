@@ -14,15 +14,25 @@ body {
 header {
 
 	padding: 20px 50px 50px 50px;
-	border-top: 24px #ffd93d solid;
-	border-bottom: 24px #ffd93d solid;
+
+
+	background: 
 
 }
 
 header h1{
-	font-size: 100px;
+	font-size: 75px;
 	font-weight: 900;
 	line-height: 150px;
+	padding: 80px;
+}
+
+header h4 { 
+	font-size: 24px;
+	font: 400;
+	line-height: 48px;
+	text-align: right;
+
 }
 
 
